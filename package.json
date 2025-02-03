@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-api-cache-optimization",
+  "version": "1.0.0",
+  "description": "A Node.js project for optimizing API caching using Express and node-cache.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "compression": "^1.7.5",
+    "express": "^4.21.2",
+    "node-cache": "^5.1.2"
+  }
+}
